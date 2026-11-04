@@ -268,7 +268,7 @@ export default function LandingPage() {
     }, []);
 
     const waNumber = '6281234567890';
-    const playStoreUrl = 'https://play.google.com/store/apps/details?id=com.suryacellindo.app';
+    const playStoreUrl = 'https://play.google.com/store/apps/details?id=id.smartserver.suryacell&hl=id';
 
     const handleServiceClick = (categoryKey) => {
         setActiveCategory(categoryKey);

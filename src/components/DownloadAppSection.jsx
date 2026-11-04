@@ -18,7 +18,7 @@ const fadeInUp = {
  * real, accessible, and responsive HTML text, headline, and official store badges.
  */
 export default function DownloadAppSection({
-    playStoreUrl = 'https://play.google.com/store/apps/details?id=com.suryacellindo.app',
+    playStoreUrl = 'https://play.google.com/store/apps/details?id=id.smartserver.suryacell&hl=id',
     appStoreUrl = '#',
     onIosClick,
 }) {

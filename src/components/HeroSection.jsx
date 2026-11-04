@@ -25,7 +25,7 @@ const fadeInUp = {
  * and an isolated 3D smartphone mockup element on the right.
  */
 export default function HeroSection({
-    playStoreUrl = 'https://play.google.com/store/apps/details?id=com.suryacellindo.app',
+    playStoreUrl = 'https://play.google.com/store/apps/details?id=id.smartserver.suryacell&hl=id',
     onIosClick,
     onExploreClick,
 }) {
